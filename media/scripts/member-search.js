@@ -1,9 +1,17 @@
 const validIds = [
+<<<<<<< HEAD:media/scripts/member-search.js
  {
     id: "MH-DU-173",
     file: "MH-DU-173.jpg",
   }
  {
+=======
+    {
+    id: "MH-DU-173",
+    file: "MH-DU-173.jpg",
+  },
+  {
+>>>>>>> 627ab4501d9631bb5f51b2761c9e3721204b6c3e:scripts/member-search.js
     id: "DL-SU-192",
     file: "DL-SU-192.jpg",
   },
